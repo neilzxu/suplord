@@ -1,0 +1,10 @@
+name: hy
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - ripgrep
+
